@@ -1,0 +1,14 @@
+D:\Education\University\4semestr\SAD\1\AppLab1\GameSimulator\bin\Debug\net10.0\GameSimulator.exe
+D:\Education\University\4semestr\SAD\1\AppLab1\GameSimulator\bin\Debug\net10.0\GameSimulator.deps.json
+D:\Education\University\4semestr\SAD\1\AppLab1\GameSimulator\bin\Debug\net10.0\GameSimulator.runtimeconfig.json
+D:\Education\University\4semestr\SAD\1\AppLab1\GameSimulator\bin\Debug\net10.0\GameSimulator.dll
+D:\Education\University\4semestr\SAD\1\AppLab1\GameSimulator\bin\Debug\net10.0\GameSimulator.pdb
+D:\Education\University\4semestr\SAD\1\AppLab1\GameSimulator\obj\Debug\net10.0\GameSimulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\University\4semestr\SAD\1\AppLab1\GameSimulator\obj\Debug\net10.0\GameSimulator.AssemblyInfoInputs.cache
+D:\Education\University\4semestr\SAD\1\AppLab1\GameSimulator\obj\Debug\net10.0\GameSimulator.AssemblyInfo.cs
+D:\Education\University\4semestr\SAD\1\AppLab1\GameSimulator\obj\Debug\net10.0\GameSimulator.csproj.CoreCompileInputs.cache
+D:\Education\University\4semestr\SAD\1\AppLab1\GameSimulator\obj\Debug\net10.0\GameSimulator.dll
+D:\Education\University\4semestr\SAD\1\AppLab1\GameSimulator\obj\Debug\net10.0\refint\GameSimulator.dll
+D:\Education\University\4semestr\SAD\1\AppLab1\GameSimulator\obj\Debug\net10.0\GameSimulator.pdb
+D:\Education\University\4semestr\SAD\1\AppLab1\GameSimulator\obj\Debug\net10.0\GameSimulator.genruntimeconfig.cache
+D:\Education\University\4semestr\SAD\1\AppLab1\GameSimulator\obj\Debug\net10.0\ref\GameSimulator.dll
